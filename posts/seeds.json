@@ -1,0 +1,230 @@
+[
+{
+  "model": "posts.post",
+  "pk": 1,
+  "fields": {
+    "image": "https://d3930c7dxygvzp.cloudfront.net/media/catalog/product/e/l/elia-03-velluto-20-bum-legs_1__1.jpg?width=1280&height=750&store=default&image-type=image",
+    "item": "Sofa",
+    "description": "Large 3 seater black leather sofa",
+    "contact": "test@test.com",
+    "location": "NW5, London",
+    "owner": 1
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 2,
+  "fields": {
+    "image": "https://i.etsystatic.com/20874745/r/il/c5d261/3253151677/il_fullxfull.3253151677_n1bw.jpg",
+    "item": "Table",
+    "description": "Vintage wooden table with steel black legs",
+    "contact": "user@user.com",
+    "location": "SW19, London",
+    "owner": 1
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 3,
+  "fields": {
+    "image": "test",
+    "item": "test",
+    "description": "test",
+    "contact": "test",
+    "location": "test",
+    "owner": 1
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 4,
+  "fields": {
+    "image": "https://www.westelm.co.uk/site/WE/Product%20Images/volume-round-storage-coffee-table-h8796-202132-0321-volume-round-storage-coffee-table-z.jpg?resizeid=61&resizeh=450&resizew=450",
+    "item": "Coffee table",
+    "description": "West Elm round storage coffee table",
+    "contact": "janesmith@gmail.com",
+    "location": "M14, Manchester",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 5,
+  "fields": {
+    "image": "https://static.tikamoon.com/product_photos/2375_A_HD_007/1200-1200-esther-rattan-coffee-table.jpg?t=1678812631",
+    "item": "Coffee table",
+    "description": "Rattan coffee table with glass top from Tikamoon.",
+    "contact": "lisajones@hotmail.com",
+    "location": "BN1, Brighton",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 6,
+  "fields": {
+    "image": "https://static.tikamoon.com/product_photos/1625__1200_000/1200-1200-jonak-solid-teak-chair.webp?t=1665573674",
+    "item": "Teak dining chairs",
+    "description": "Two solid teak dining chairs from Tikamoon.",
+    "contact": "simonwest@btinternet.com",
+    "location": "L1, Liverpool",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 7,
+  "fields": {
+    "image": "https://static.tikamoon.com/product_photos/6055_A_HD_1/774-774-key-wood-solid-acacia-coffee-table.webp?t=1667559149",
+    "item": "Side table",
+    "description": "Small coffee/side table, dark walnut with black steel legs.",
+    "contact": "jamiewilson@gmail.com",
+    "location": "BN1, Brighton",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 8,
+  "fields": {
+    "image": "https://zazahomes.co.uk/wp-content/uploads/2017/09/P9204303-1600x1600.jpg",
+    "item": "Side table",
+    "description": "Small wood slice side table.",
+    "contact": "sammicheal@hotmail.com",
+    "location": "L1, Liverpool",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 9,
+  "fields": {
+    "image": "https://cdn.sklum.com/uk/wk/1896683-988x708/acacia-wood-coffee-table-vacry.jpg?cf-resize=imgcat",
+    "item": "Coffee table",
+    "description": "Walnut finish contemporary end table from SKLUM.",
+    "contact": "lilyjames@gmail.com",
+    "location": "NW3, London",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 10,
+  "fields": {
+    "image": "https://cdn.rockettstgeorge.co.uk/media/catalog/product/cache/da0750d9711af85067dbdd1214db665f/r/o/rockettstgeorge-gold-drip-coffee-table-lowres-lifestyle-1.jpg",
+    "item": "Coffee table",
+    "description": "Unique gold drip circular coffee table.",
+    "contact": "adamsmith@btinternet.com",
+    "location": "N1, London",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 11,
+  "fields": {
+    "image": "https://cdn.shopify.com/s/files/1/3004/4124/products/BSD-103-OAK_main_600x.jpg?v=1664210226",
+    "item": "Dining table",
+    "description": "Large light oak dining table suitable for 6 guests.",
+    "contact": "chloethompson@yahoomail.com",
+    "location": "BN1, Brighton",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 12,
+  "fields": {
+    "image": "https://cdn.shopify.com/s/files/1/0852/7752/products/Quilton_2_Seater_Linara_100Tarragon_1024x1024.jpg?v=1677252745",
+    "item": "Sofa",
+    "description": "Green quilted 3 seater sofa.",
+    "contact": "claraallen@gmail.com",
+    "location": "NW2, London",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 13,
+  "fields": {
+    "image": "https://cdn.shopify.com/s/files/1/0052/8770/6673/files/Pumice_20Image_2001_20-_20Model_2003_203_20Seater_20Left_20Corner_20Front_20View.jpg?v=1678958449&width=1200",
+    "item": "Sofa",
+    "description": "Large grey 3 seater L shaped sofa from Swft.",
+    "contact": "angelaadams@me.com",
+    "location": "SW7, London",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 14,
+  "fields": {
+    "image": "https://cdn.shopify.com/s/files/1/0279/0971/8051/products/2ad30fa9-0c54-4147-817b-14c1e9364f09_1946x.png?v=1657814726",
+    "item": "Dining chair",
+    "description": "Curved boucle dining chair with walnut legs",
+    "contact": "caraleyton@gmail.com",
+    "location": "L4, Liverpool",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 15,
+  "fields": {
+    "image": "https://media.4rgos.it/s/Argos/4039895_R_SET?$Main768$&w=620&h=620",
+    "item": "Small desk",
+    "description": "Light oak rattan Habitat desk",
+    "contact": "shaniawest@hotmail.co.uk",
+    "location": "BN1, Brighton",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 16,
+  "fields": {
+    "image": "https://cdn.sklum.com/uk/wk/1225633-988x708/office-table-in-taluk-wood.jpg?cf-resize=imgcat",
+    "item": "Desk",
+    "description": "SKLUM large storage desk with steel finishes",
+    "contact": "alicejones@btinternet.com",
+    "location": "M14, Manchester",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 17,
+  "fields": {
+    "image": "https://images.dunelm.com/30727659.jpg?$standardplayerdefault$&img404=noimagedefault",
+    "item": "Desk",
+    "description": "Wooden slated Dunelm desk with gold hardware.",
+    "contact": "kieranwood@gmail.com",
+    "location": "L4 Liverpool",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 18,
+  "fields": {
+    "image": "https://secure.img1-cg.wfcdn.com/im/51806424/resize-h255%5Ecompr-r85/2013/201317168/Kimpel+Desk+Chair.jpg",
+    "item": "Desk chair",
+    "description": "Leather desk chair previously purchased from Wayfair.",
+    "contact": "nigellalawson@gmail.com",
+    "location": "SW7, London",
+    "owner": 2
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 19,
+  "fields": {
+    "image": "https://images.dunelm.com/30727662.jpg?$standardplayerdefault$&img404=noimagedefault",
+    "item": "Mirror",
+    "description": "Gold abstract mirror art deco",
+    "contact": "willgreen@live.com",
+    "location": "M14, Manchester",
+    "owner": 2
+  }
+}
+]

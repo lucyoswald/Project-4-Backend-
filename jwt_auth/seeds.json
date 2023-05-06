@@ -1,0 +1,56 @@
+[
+  {
+    "model": "jwt_auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$MWYSkt6nVyv6w0jUwZAdif$/TjMPNVvWZMJZFHdrOf9ZL+USqb3NCv3nRHcqyZnnUs=",
+      "last_login": "2023-04-20T18:02:11.615Z",
+      "is_superuser": true,
+      "username": "admin",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-04-20T17:57:18.873Z",
+      "email": "admin@admin.com",
+      "first_name": "",
+      "last_name": "",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "jwt_auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$iEW3XlysRoqkbnFYYvE3cb$6VTKAgrOolMmXeRYBH6yT/RmYxXpw1dq4mB0Fqj7OuQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "user",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-04-20T18:51:20.684Z",
+      "email": "user@user.com",
+      "first_name": "lucy",
+      "last_name": "oswald",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "jwt_auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "admin",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "lucyoswald",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-04-20T20:09:24Z",
+      "email": "lucy_oswald@hotmail.co.uk",
+      "first_name": "Lucy",
+      "last_name": "Oswald",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
