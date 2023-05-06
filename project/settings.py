@@ -61,6 +61,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://magical-pothos-2f60c5.netlify.app",
 ]
 
 ROOT_URLCONF = 'project.urls'
@@ -87,21 +88,21 @@ WSGI_APPLICATION = 'project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
-
-# DATABASES = { # added this to use postgres as the databse instead of the default sqlite. do this before running the initial migrations or you will need to do it again
+# DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'reuse-network',
-#         'HOST': 'localhost',
-#         'PORT': 5432
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
+
+DATABASES = { # added this to use postgres as the databse instead of the default sqlite. do this before running the initial migrations or you will need to do it again
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'reuse-network',
+        'HOST': 'localhost',
+        'PORT': 5432
+    }
+}
 
 
 # Password validation
