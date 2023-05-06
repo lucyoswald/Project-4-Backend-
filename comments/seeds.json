@@ -1,32 +1,42 @@
 [
 {
   "model": "comments.comment",
-  "pk": 1,
+  "pk": 13,
   "fields": {
-    "text": "I love this table, I'll drop you an email now.",
-    "created_at": "2023-04-20T19:26:48.915Z",
+    "text": "Love this sofa!",
+    "created_at": "2023-05-02T16:55:40.232Z",
+    "post": 1,
+    "owner": 1
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 21,
+  "fields": {
+    "text": "I love this table, will email you!",
+    "created_at": "2023-05-04T11:59:42.726Z",
+    "post": 4,
+    "owner": 7
+  }
+},
+{
+  "model": "comments.comment",
+  "pk": 22,
+  "fields": {
+    "text": "Will email you about this table!",
+    "created_at": "2023-05-04T16:58:55.230Z",
     "post": 2,
-    "owner": 1
+    "owner": 7
   }
 },
 {
   "model": "comments.comment",
-  "pk": 2,
+  "pk": 23,
   "fields": {
-    "text": "hello testing",
-    "created_at": "2023-04-20T19:30:33.011Z",
-    "post": 1,
-    "owner": 1
-  }
-},
-{
-  "model": "comments.comment",
-  "pk": 3,
-  "fields": {
-    "text": "I love this sofa!",
-    "created_at": "2023-04-22T09:29:33.893Z",
-    "post": 1,
-    "owner": 2
+    "text": "hellooo",
+    "created_at": "2023-05-04T18:15:30.838Z",
+    "post": 2,
+    "owner": 7
   }
 }
 ]
