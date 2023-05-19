@@ -16,14 +16,15 @@ Sign up and create new account or try this demo user:
 ## Application Visuals
 
 <p align="center">
-<img src="./readme_assets/homepage.gif" width="49%"/>
-<img src="./readme_assets/create_post.gif" width="49%"/>
-<img src="./readme_assets/update_delete_post.gif" width="49%"/>
-<img src="./readme_assets/login_signup.gif" width="49%"/>
-<img src="./readme_assets/Login.png" width="49%" height="250vh"/>
-<img src="./readme_assets/comments.gif" width="49%" height="250vh"/>
-
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/711cd3a6-0e95-4a3e-ae80-ae53aef39db9" width="49%"/>
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/4dc63bc0-0aea-48a8-99d4-38dd67461245" width="49%"/>
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/06e80e6e-8f1e-49b7-be64-f8ea54113a89" width="49%"/>
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/8c921e65-b7b0-46f9-9e26-b6a55a99513c" width="49%"/>
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/7b4ebc60-6dd1-43fc-883e-78d97d845a45" width="49%" height="250vh"/>
+<img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/f58a4b65-e584-4a55-bdcc-ef74058e8282" width="49%" height="250vh"/>
 </p>
+
+
 
 ## Responsive Design
 
@@ -32,6 +33,8 @@ Sign up and create new account or try this demo user:
 <img src="./readme_assets/login_signup_mob.gif" width="30%"/>
 <img src="./readme_assets/_posts_mobile.gif" width="30%"/>
 </p>
+
+
 
 ## Project Brief:
 
