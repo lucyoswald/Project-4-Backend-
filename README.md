@@ -24,17 +24,13 @@ Sign up and create new account or try this demo user:
 <img src="https://github.com/lucyoswald/SEI-Project-4-Backend-Reuse-Network/assets/116687424/f58a4b65-e584-4a55-bdcc-ef74058e8282" width="49%" height="250vh"/>
 </p>
 
-
-
 ## Responsive Design
 
 <p align="center">
-<img src="./readme_assets/homemobbb.gif" width="29.6%"/>
-<img src="./readme_assets/login_signup_mob.gif" width="30%"/>
-<img src="./readme_assets/_posts_mobile.gif" width="30%"/>
+<img src="./assets/homemobbb.gif" width="29.6%"/>
+<img src="./assets/login_signup_mob.gif" width="30%"/>
+<img src="./assets/_posts_mobile.gif" width="30%"/>
 </p>
-
-
 
 ## Project Brief:
 

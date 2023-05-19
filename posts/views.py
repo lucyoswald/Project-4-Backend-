@@ -22,10 +22,6 @@ class PostListView(APIView):
 # Create a post
     def post(self, request):
         request.data["owner"] = request.user.id
-        # if request.user.is_authenticated:
-        #     request.data["owner"] = request.user.id
-        # else:
-        #     request.data["owner"] = 1
 
         post_to_add = PostSerializer(data=request.data)
     
@@ -61,7 +57,6 @@ class PostDetailView(APIView):
     
     def patch(self, request, pk):
         post_to_update = self.get_post(pk=pk)
-   
         if request.user != post_to_update.owner and not request.user.is_staff:
                raise PermissionDenied()
         updated_post = PostSerializer(post_to_update, data=request.data)
